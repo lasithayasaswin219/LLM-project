@@ -1,0 +1,70 @@
+{
+  "cooked rice": [
+    130,
+    2.7
+  ],
+  "egg": [
+    143,
+    12.6
+  ],
+  "onion": [
+    40,
+    1.1
+  ],
+  "cooking oil": [
+    884,
+    0
+  ],
+  "tomato": [
+    18,
+    0.9
+  ],
+  "rolled oats": [
+    389,
+    16.9
+  ],
+  "banana": [
+    89,
+    1.1
+  ],
+  "milk": [
+    61,
+    3.2
+  ],
+  "cooked chickpeas": [
+    164,
+    8.9
+  ],
+  "cucumber": [
+    15,
+    0.7
+  ],
+  "lemon juice": [
+    22,
+    0.35
+  ],
+  "dry pasta": [
+    371,
+    13
+  ],
+  "garlic": [
+    149,
+    6.4
+  ],
+  "potato": [
+    77,
+    2
+  ],
+  "bread": [
+    265,
+    9
+  ],
+  "canned tuna": [
+    116,
+    25
+  ],
+  "carrot": [
+    41,
+    0.9
+  ]
+}

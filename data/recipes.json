@@ -1,0 +1,105 @@
+[
+  {
+    "id": "egg_fried_rice",
+    "name": "Egg Fried Rice",
+    "time_minutes": 20,
+    "servings": 1,
+    "ingredients": {
+      "cooked rice": 150,
+      "egg": 100,
+      "onion": 40,
+      "cooking oil": 5
+    },
+    "instructions": "Use previously refrigerated cooked rice. Fry chopped onion in oil, scramble egg until firm, add rice, heat until steaming hot."
+  },
+  {
+    "id": "tomato_omelette",
+    "name": "Tomato Omelette",
+    "time_minutes": 12,
+    "servings": 1,
+    "ingredients": {
+      "egg": 100,
+      "tomato": 80,
+      "onion": 30,
+      "cooking oil": 5
+    },
+    "instructions": "Wash and chop vegetables, beat egg, cook mixture in a lightly oiled pan until fully set."
+  },
+  {
+    "id": "banana_oats",
+    "name": "Banana Oat Bowl",
+    "time_minutes": 7,
+    "servings": 1,
+    "ingredients": {
+      "rolled oats": 50,
+      "banana": 100,
+      "milk": 200
+    },
+    "instructions": "Heat oats in milk until cooked and thickened. Top with sliced banana."
+  },
+  {
+    "id": "chickpea_salad",
+    "name": "Chickpea Salad",
+    "time_minutes": 10,
+    "servings": 2,
+    "ingredients": {
+      "cooked chickpeas": 240,
+      "tomato": 120,
+      "cucumber": 120,
+      "lemon juice": 20
+    },
+    "instructions": "Wash vegetables, dice, then combine with cooked chickpeas and lemon juice."
+  },
+  {
+    "id": "garlic_pasta",
+    "name": "Garlic Pasta",
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": {
+      "dry pasta": 160,
+      "garlic": 12,
+      "cooking oil": 15,
+      "tomato": 100
+    },
+    "instructions": "Cook pasta according to package instructions. Gently saut\u00e9 garlic in oil, add tomato, combine with drained pasta."
+  },
+  {
+    "id": "potato_egg_hash",
+    "name": "Potato and Egg Hash",
+    "time_minutes": 25,
+    "servings": 2,
+    "ingredients": {
+      "potato": 300,
+      "egg": 100,
+      "onion": 80,
+      "cooking oil": 10
+    },
+    "instructions": "Dice and cook potatoes until tender; fry onions and potatoes, add eggs and cook until fully set."
+  },
+  {
+    "id": "tuna_sandwich",
+    "name": "Tuna Sandwich",
+    "time_minutes": 8,
+    "servings": 1,
+    "ingredients": {
+      "bread": 80,
+      "canned tuna": 90,
+      "cucumber": 40,
+      "lemon juice": 10
+    },
+    "instructions": "Drain commercially canned tuna, mix with lemon juice, layer with washed cucumber on bread. Eat promptly."
+  },
+  {
+    "id": "vegetable_rice",
+    "name": "Vegetable Rice Bowl",
+    "time_minutes": 22,
+    "servings": 2,
+    "ingredients": {
+      "cooked rice": 300,
+      "carrot": 100,
+      "onion": 60,
+      "cooking oil": 10
+    },
+    "instructions": "Wash and slice vegetables. Cook until soft, stir in cooked rice and heat until steaming hot."
+  }
+]

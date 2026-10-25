@@ -1,0 +1,38 @@
+[
+  {
+    "id": "egg_fried_rice",
+    "name": "Egg Fried Rice",
+    "note": "",
+    "ingredients": {
+      "cooked rice": 150,
+      "egg": 100,
+      "onion": 40,
+      "cooking oil": 5
+    },
+    "instructions": "Use previously refrigerated cooked rice. Fry chopped onion in oil, scramble egg until firm, add rice, heat until steaming hot."
+  },
+  {
+    "id": "egg_fried_rice",
+    "name": "Egg Fried Rice",
+    "note": "",
+    "ingredients": {
+      "cooked rice": 150,
+      "egg": 100,
+      "onion": 40,
+      "cooking oil": 5
+    },
+    "instructions": "Use previously refrigerated cooked rice. Fry chopped onion in oil, scramble egg until firm, add rice, heat until steaming hot."
+  },
+  {
+    "id": "egg_fried_rice",
+    "name": "Egg Fried Rice",
+    "note": "",
+    "ingredients": {
+      "cooked rice": 150,
+      "egg": 100,
+      "onion": 40,
+      "cooking oil": 5
+    },
+    "instructions": "Use previously refrigerated cooked rice. Fry chopped onion in oil, scramble egg until firm, add rice, heat until steaming hot."
+  }
+]
