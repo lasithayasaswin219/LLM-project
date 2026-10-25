@@ -1,15 +1,15 @@
 # LLM-project
-group project cclark
+
 Smart Ai recipe agent
 
 ## requirements
-python
-ollama
-model = llama3.2
+- python
+- ollama
+- model = llama3.2
 
 ## how to run
-run below script within project terminal
-python./main.py
+- run below script within project terminal
+- python./main.py
 
 Ollama must be running. On Windows the Ollama desktop service usually starts with the app, otherwise run "ollama serve" in another terminal.
 
